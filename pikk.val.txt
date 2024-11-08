@@ -1,0 +1,6 @@
+There is a result of student names and heights:
+John 175
+HOJN 173
+Maddison 169
+Lucie 173
+Camilla 171
